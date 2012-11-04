@@ -1,8 +1,8 @@
 === Plugin Name ===
-Contributors: skydotint, aynamohol
+Contributors: Samrat Khan
 Tags: bangla date, banglay dekhao date, date to bangla
-Requires at least: 3.2.1
-Tested up to: 3.2.1
+Requires at least: 3.4.1
+Tested up to: 3.4.1
 Stable tag: 1.4
 
 Active the plugin, it will work itself.
@@ -13,7 +13,7 @@ A Bangla Plugin which will conert the wordpress theme to Bangla.
 
 = Banglay Dekhao Date's Homepage =
 
-[Visit this plugin's homepage](http://www.skydotint.com/)
+[Visit this plugin's homepage](http://www.facebook.com/saamraatkhaan)
 
 == Installation ==
 
