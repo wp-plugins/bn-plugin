@@ -11,6 +11,11 @@ Active the plugin, it will work itself.
 
 A Bangla Plugin which will conert the wordpress theme to Bangla.
 
+What will happen if you installed and active this plugin-
+
+"Posted on October 17, 2012" to "Posted on অক্টোবর ১৭, ২০১২"
+"Mr WordPress on October 17, 2012 at 2:49 PM Said:" to "Mr WordPress on অক্টোবর ১৭, ২০১২ at ২:৪৯ দুপুর said:"
+
 = Banglay Dekhao Date's Homepage =
 
 [Visit this plugin's homepage](http://www.facebook.com/saamraatkhaan)
