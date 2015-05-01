@@ -1,8 +1,8 @@
 <?php
 /*
 	Plugin Name: Banglay Dekhao Date
-	Version: 0.3
-	Plugin URI: http://www.facebook.com/saamraatkhaan
+	Version: 0.4
+	Plugin URI: http://www.ideatweaker.com/
 	Description: This plugin working itself. It is not related with any other plugin. This is plugin converting Strings to Localization version. Tested with 3.4. Twentyeleven
 	Author: Samrat Khan
 	Author URI: http://www.ideatweaker.com/
